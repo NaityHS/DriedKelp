@@ -1,2 +1,2 @@
 # DriedKelp
-Harmless Windows malware
+Series of softwares
