@@ -1,2 +1,0 @@
-# DriedKelp
-Series of softwares
